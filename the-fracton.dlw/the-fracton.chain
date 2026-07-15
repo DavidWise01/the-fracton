@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1411
+slug  : the-fracton
+seal  : dd78dd8a4b1ac57a8de1ff387d42b33c95352b9440d2495cc739b6c5578915b3
+prev  : 193fc7f351b8c341c805ab349ae019544d3c471b98cda049d2455fffa7a99a43
+link  : df561db1a1c445cd0aefbb1821a1ce9dc89e04e785a73935f91da0a0256d54cb
+head  : c3aaf0872984cab6fc231a85092019d31d5ff097b5e569121cd9a8d6835daa6a
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
